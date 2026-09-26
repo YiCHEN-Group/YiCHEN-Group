@@ -1,1 +1,86 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        {{ page.title }} | {{ site.title }}
+    </title>
+
+    <link rel="stylesheet"
+          href="{{ '/assets/css/style.css' | relative_url }}">
+
+</head>
+
+
+<body>
+
+<header>
+
+    <div class="container header">
+
+        <a class="site-title"
+           href="{{ '/' | relative_url }}">
+            YiCHEN Research Group
+        </a>
+
+
+        <nav>
+
+            <a href="{{ '/' | relative_url }}">
+                Home
+            </a>
+
+            <a href="{{ '/research.html' | relative_url }}">
+                Research
+            </a>
+
+            <a href="{{ '/publications.html' | relative_url }}">
+                Publications
+            </a>
+
+            <a href="{{ '/team.html' | relative_url }}">
+                Team
+            </a>
+
+            <a href="{{ '/courses.html' | relative_url }}">
+                Courses
+            </a>
+
+        </nav>
+
+    </div>
+
+</header>
+
+
+<main>
+
+    <div class="container">
+
+        {{ content }}
+
+    </div>
+
+</main>
+
+
+<footer>
+
+    <div class="container">
+
+        © 2026 YiCHEN Research Group
+
+    </div>
+
+</footer>
+
+</body>
+
+</html>

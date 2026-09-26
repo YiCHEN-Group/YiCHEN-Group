@@ -1,0 +1,11 @@
+- year: 2026
+  title: "Example Paper: Nonlocal Metamaterials"
+  authors: "Yi Chen, Author 2, Author 3"
+  journal: "Example Journal"
+  doi: "https://doi.org/xxxxx"
+
+- year: 2025
+  title: "Example Paper: Thermal Metamaterials"
+  authors: "Yi Chen, Author 2"
+  journal: "Example Journal"
+  doi: "https://doi.org/yyyyy"

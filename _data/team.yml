@@ -1,0 +1,17 @@
+- name: "Yi Chen"
+  position: "Principal Investigator"
+  photo: "/assets/images/profile.jpg"
+  research: "Nonlocal metamaterials, phononic systems, thermal metamaterials, and active metamaterials"
+  email: "your-email@example.com"
+
+- name: "Student Name"
+  position: "PhD Student"
+  photo: "/assets/images/student1.jpg"
+  research: "Nonlocal mechanical metamaterials"
+  email: ""
+
+- name: "Student Name"
+  position: "PhD Student"
+  photo: "/assets/images/student2.jpg"
+  research: "Thermal metamaterials"
+  email: ""

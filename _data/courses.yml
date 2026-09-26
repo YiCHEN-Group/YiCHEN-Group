@@ -1,0 +1,10 @@
+
+- year: 2026
+  semester: "Spring"
+  title: "Continuum Mechanics"
+  description: "Fundamentals of continuum mechanics and elasticity."
+
+- year: 2026
+  semester: "Fall"
+  title: "Metamaterials"
+  description: "Fundamentals and applications of mechanical metamaterials."

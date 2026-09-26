@@ -1,0 +1,21 @@
+title: "Lab of Metamaterials and Waves"
+description: "Metamaterials & Multiphysics"
+url: "https://yichen-group.github.io"
+
+markdown: markdown
+
+collections:
+  publications:
+    output: false
+
+  team:
+    output: false
+
+  courses:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

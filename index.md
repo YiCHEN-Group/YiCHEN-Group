@@ -22,8 +22,7 @@ We combine theoretical modeling, numerical simulation, advanced fabrication, and
 
 <div class="home-photo">
 
-<img src="/assets/images/profile.jpg" alt="Yi Chen">
-
+<!-- <img src="/assets/images/profile.jpg" alt="Yi Chen"> -->
 </div>
 
 </div>

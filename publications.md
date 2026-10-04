@@ -30,7 +30,7 @@ title: Publications
 </p>
 
 <p>
-<em>{{ paper.journal }}</em>, {{ paper.year }}.
+<em>{{ paper.journal }}</em>, <strong>{{ paper.volumes }}</strong>, {{ paper.pages | split: '-' | first }} ({{ paper.year }}).
 {% if paper.doi %}
 <a href="{{ paper.doi }}" target="_blank">[DOI]</a>
 {% endif %}

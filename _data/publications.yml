@@ -17,7 +17,7 @@
 
 - year: 2025
   title: "Nonlocal metamaterials and metasurfaces"
-  authors: "Yi Chen, Romain Fleury, Pierre Seppecher, Gengkai Hu, Martin Wegener"
+  authors: "Yi Chen*, Romain Fleury, Pierre Seppecher, Gengkai Hu, Martin Wegener*"
   journal: "Nature Reviews Physics"
   volumes: "7"
   pages: "299-312"
@@ -25,7 +25,7 @@
 
 - year: 2025
   title: "Observation of Floppy Flexural Modes in a 3D Polarized Maxwell Beam"
-  authors: "Yi Chen, James P. McInerney, Paul N. Krause, Jonathan L. G. Schneider, Martin Wegener, Xiaoming Mao"
+  authors: "Yi Chen†*, James P. McInerney†, Paul N. Krause†, Jonathan L. G. Schneider, Martin Wegener and Xiaoming Mao"
   journal: "Physical Review Letters"
   volumes: "134"
   pages: "086101"
@@ -33,7 +33,7 @@
 
 - year: 2024
   title: "Anomalous frozen evanescent phonons"
-  authors: "Yi Chen, Jonathan L.G. Schneider, Ke Wang, Philip Scott, Sebastian Kalt, Muamer Kadic, Martin Wegener"
+  authors: "Yi Chen†*, Jonathan L.G. Schneider†, Ke Wang†, Philip Scott, Sebastian Kalt, Muamer Kadic, and Martin Wegener*"
   journal: "Nature Communications"
   volumes: "15"
   pages: "8882"
@@ -41,7 +41,7 @@
 
 - year: 2024
   title: "Rayleigh surface waves of extremal elastic materials"
-  authors: "Yu Wei, Yi Chen, Wen Cheng, Xiaoning Liu, Gengkai Hu"
+  authors: "Yu Wei, Yi Chen*, Wen Cheng, Xiaoning Liu, and Gengkai Hu*"
   journal: "Journal of the Mechanics and Physics of Solids"
   volumes: "193"
   pages: "105842"
@@ -49,7 +49,7 @@
 
 - year: 2023
   title: "Dispersion engineering by hybridizing the back-folded soft mode of monomode elastic metamaterials with stiff acoustic modes"
-  authors: "Michael F. Groß, Jonathan L.G. Schneider, Yi Chen, Muamer Kadic, Martin Wegener"
+  authors: "Michael F. Groß†, Jonathan L.G. Schneider†, Yi Chen†*, Muamer Kadic, and Martin Wegener*"
   journal: "Advanced Materials"
   volumes: "36"
   pages: "2307553"
@@ -57,15 +57,15 @@
 
 - year: 2023
   title: "Observation of Chirality-Induced Roton-Like Dispersion in a 3D Micropolar Elastic Metamaterial"
-  authors: "Yi Chen, Jonathan L.G. Schneider, Michael F. Groß, Ke Wang, Sebastian Kalt, Philip Scott, Muamer Kadic, Martin Wegener"
+  authors: "Yi Chen*, Jonathan L.G. Schneider, Michael F. Groß, Ke Wang, Sebastian Kalt, Philip Scott, Muamer Kadic, and Martin Wegener*"
   journal: "Advanced Functional Materials"
   volumes: "34"
-  pages: "2302699"
+  pages: "02699"
   doi: "https://doi.org/10.1002/adfm.202302699"
 
 - year: 2023
   title: "Nonlocal cable-network metamaterials"
-  authors: "Yi Chen, Mahmoud A.A. Abouelatta, Ke Wang, Muamer Kadic, Martin Wegener"
+  authors: "Yi Chen*, Mahmoud A.A. Abouelatta, Ke Wang, Muamer Kadic, and Martin Wegener"
   journal: "Advanced Materials"
   volumes: "35"
   pages: "2209988"
@@ -73,7 +73,7 @@
 
 - year: 2023
   title: "Phonon transmission through a nonlocal metamaterial slab"
-  authors: "Yi Chen, Ke Wang, Muamer Kadic, Sebastien Guenneau, Changguo Wang, Martin Wegener"
+  authors: "Yi Chen*, Ke Wang, Muamer Kadic, Sebastien Guenneau, Changguo Wang, and Martin Wegener"
   journal: "Communications Physics"
   volumes: "6"
   pages: "75"
@@ -81,7 +81,7 @@
 
 - year: 2022
   title: "Nonlocal interaction engineering of 2D roton-like dispersion relations in acoustic and mechanical metamaterials"
-  authors: "Ke Wang, Yi Chen, Muamer Kadic, Changguo Wang, Martin Wegener"
+  authors: "Ke Wang†, Yi Chen†*, Muamer Kadic, Changguo Wang, and Martin Wegener"
   journal: "Communications Materials"
   volumes: "3"
   pages: "35"
@@ -89,7 +89,7 @@
 
 - year: 2021
   title: "Experimental observation of roton-like dispersion relations in metamaterials"
-  authors: "J.A. Iglesias Martínez, M.F. Groß, Yi Chen, Tobias Frenzel, Vincent Laude, Muamer Kadic, M. Wegener"
+  authors: "J.A. Iglesias Martínez†, M.F. Groß†, Yi Chen†*, Tobias Frenzel, Vincent Laude, Muamer Kadic, and M. Wegener*"
   journal: "Science Advances"
   volumes: "7"
   pages: "eabm2189"
@@ -97,7 +97,7 @@
 
 - year: 2021
   title: "Roton-like acoustical dispersion relations in 3D metamaterials"
-  authors: "Yi Chen, Muamer Kadic, Martin Wegener"
+  authors: "Yi Chen, Muamer Kadic, and Martin Wegener*"
   journal: "Nature Communications"
   volumes: "12"
   pages: "3278"
@@ -105,15 +105,15 @@
 
 - year: 2021
   title: "Cubic metamaterial crystal supporting broadband isotropic chiral phonons"
-  authors: "Yi Chen, Tobias Frenzel, Quan Zhang, Muamer Kadic, Martin Wegener"
-  journal: "Physical Review Materials"
+  authors: "Yi Chen*, Tobias Frenzel, Quan Zhang, Muamer Kadic, and Martin Wegener"
+  journal: "Physical Review Material"
   volumes: "5"
   pages: "025201"
   doi: "https://doi.org/10.1103/PhysRevMaterials.5.025201"
 
 - year: 2021
   title: "Chiral metamaterial crystals supporting isotropic acoustical activity and isotropic chiral phonons"
-  authors: "Yi Chen, Muamer Kadic, Martin Wegener"
+  authors: "Yi Chen, Muamer Kadic, and Martin Wegener"
   journal: "Proceedings of the Royal Society A"
   volumes: "477"
   pages: "20200764"
@@ -121,7 +121,7 @@
 
 - year: 2020
   title: "Highly anisotropic hexagonal lattice material for low frequency water sound insulation"
-  authors: "Yi Chen, Binghao Zhao, Xiaoning Liu, Gengkai Hu"
+  authors: "Yi Chen†, Binghao Zhao†, Xiaoning Liu, and Gengkai Hu*"
   journal: "Extreme Mechanics Letters"
   volumes: "40"
   pages: "100916"
@@ -129,7 +129,7 @@
 
 - year: 2020
   title: "Mapping acoustical activity in 3D chiral mechanical metamaterials onto micropolar continuum elasticity"
-  authors: "Yi Chen, Tobias Frenzel, Sebastien Guenneau, Muamer Kadic, Martin Wegener"
+  authors: "Yi Chen*, Tobias Frenzel, Sebastien Guenneau, Muamer Kadic, and Martin Wegener"
   journal: "Journal of the Mechanics and Physics of Solids"
   volumes: "137"
   pages: "103877"
@@ -137,7 +137,7 @@
 
 - year: 2020
   title: "Isotropic chiral acoustic phonons in 3D quasicrystalline metamaterials"
-  authors: "Yi Chen, Muamer Kadic, Sebastien Guenneau, Martin Wegener"
+  authors: "Yi Chen, Muamer Kadic, Sebastien Guenneau, and Martin Wegener"
   journal: "Physical Review Letters"
   volumes: "124"
   pages: "235502"
@@ -145,18 +145,18 @@
 
 - year: 2019
   title: "Broadband and high transmission metasurface for converting underwater cylindrical waves to plane Waves"
-  authors: "Yi Chen, Gengkai Hu"
+  authors: "Yi Chen, and Gengkai Hu*"
   journal: "Physical Review Applied"
   volumes: "12"
-  pages: "044061"
+  pages: "04406"
   doi: "https://doi.org/10.1103/PhysRevApplied.12.044061"
 
 - year: 2019
   title: "Influences of imperfectness and inner constraints on an acoustic cloak with unideal pentamode materials"
-  authors: "Yi Chen, Xiaoning Liu, Gengkai Hu"
+  authors: "Yi Chen, Xiaoning Liu, and Gengkai Hu*"
   journal: "Journal of Sound and Vibration"
   volumes: "458"
-  pages: "62-73"
+  pages: "62"
   doi: "https://doi.org/10.1016/j.jsv.2019.06.012"
 
 - year: 2021
@@ -169,15 +169,15 @@
 
 - year: 2019
   title: "Topological phase transition in mechanical honeycomb lattice"
-  authors: "Yi Chen, Xiaoning Liu, Gengkai Hu"
+  authors: "Yi Chen, Xiaoning Liu*, and Gengkai Hu*"
   journal: "Journal of the Mechanics and Physics of Solids"
   volumes: "122"
-  pages: "54-68"
+  pages: "54"
   doi: "https://doi.org/10.1016/j.jmps.2018.08.013"
 
 - year: 2018
   title: "Two-dimensional water acoustic waveguide based on pressure compensation method"
-  authors: "Mingye Zheng, Yi Chen, Xiaoning Liu, Gengkai Hu"
+  authors: "Mingye Zheng†, Yi Chen†, Xiaoning Liu, and Gengkai Hu*"
   journal: "Review of Scientific Instruments"
   volumes: "89"
   pages: "024902"
@@ -185,7 +185,7 @@
 
 - year: 2017
   title: "Longitudinal elastic wave control by semi-linear material"
-  authors: "Dengke Guo, Yi Chen, Zheng Chang, Gengkai Hu"
+  authors: "Dengke Guo†, Yi Chen†, Zheng Chang, and Gengkai Hu*"
   journal: "The Journal of the Acoustical Society of America"
   volumes: "142"
   pages: "1229"
@@ -193,7 +193,7 @@
 
 - year: 2016
   title: "Pentamode material for underwater acoustic wave control (in Chinese)"
-  authors: "Yi Chen, Xiaoning Liu, Ping Xiang, Gengkai Hu"
+  authors: "Yi Chen, Xiaoning Liu, Ping Xiang, and Gengkai Hu*"
   journal: "Advances in Mechanics"
   volumes: "46"
   pages: "201609"
@@ -201,7 +201,7 @@
 
 - year: 2016
   title: "Design of arbitrary shaped pentamode acoustic cloak based on quasi-symmetric mapping gradient algorithm"
-  authors: "Yi Chen, Xiaoning Liu, Gengkai Hu"
+  authors: "Yi Chen, Xiaoning Liu, and Gengkai Hu*"
   journal: "Journal of the Acoustical Society of America"
   volumes: "140"
   pages: "EL405"
@@ -209,7 +209,7 @@
 
 - year: 2015
   title: "Latticed pentamode acoustic cloak"
-  authors: "Yi Chen, Xiaoning Liu, Gengkai Hu"
+  authors: "Yi Chen, Xiaoning Liu, and Gengkai Hu*"
   journal: "Scientific Reports"
   volumes: "5"
   pages: "15745"
@@ -217,15 +217,15 @@
 
 - year: 2014
   title: "Micropolar modeling of planar orthotropic rectangular chiral lattices"
-  authors: "Yi Chen, Xiaoning Liu, Gengkai Hu"
+  authors: "Yi Chen, Xiaoning Liu, and Gengkai Hu*"
   journal: "Comptes Rendus Mécanique"
   volumes: "342"
-  pages: "273-281"
+  pages: "273"
   doi: "https://doi.org/10.1016/j.crme.2014.02.004"
 
 - year: 2014
   title: "Micropolar continuum modelling of bi-dimensional tetrachiral lattices"
-  authors: "Yi Chen, Xiaoning Liu, Gengkai Hu, Qingping Sun, Quanshui Zheng"
+  authors: "Yi Chen, Xiaoning Liu, Gengkai Hu*, Qingping Sun, and Quanshui Zheng"
   journal: "Proceedings of the Royal Society A"
   volumes: "2165"
   pages: "20130734"

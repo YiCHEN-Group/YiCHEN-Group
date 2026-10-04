@@ -1,11 +1,16 @@
 - year: 2026
-  title: "Example Paper: Nonlocal Metamaterials"
-  authors: "Yi Chen, Author 2, Author 3"
-  journal: "Example Journal"
-  doi: "https://doi.org/xxxxx"
+  title: "Nonlocal metamaterials and metasurfaces"
+  authors: "Yi Chen, Romain Fleury, Pierre Seppecher, Gengkai Hu, Martin Wegener"
+  journal: "Nature Reviews Physics"
+  volumes: "7"
+  pages: "299-312"
+  doi: "https://doi.org/10.1038/s42254-025-00829-1"
 
-- year: 2025
-  title: "Example Paper: Thermal Metamaterials"
-  authors: "Yi Chen, Author 2"
-  journal: "Example Journal"
-  doi: "https://doi.org/yyyyy"
+- year: 2017
+  title: "Broadband solid cloak for underwater acoustics"
+  authors: "Yi Chen, Mingye Zheng, Xiaoning Liu, Yafeng Bi, Zhaoyong Sun, Ping Xiang, Jun Yang, Gengkai Hu"
+  journal: "Physical Review B"
+  volumes: "95"
+  pages: "180104"
+  doi: "https://doi.org/10.1103/PhysRevB.95.180104"
+

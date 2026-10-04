@@ -14,8 +14,8 @@ We combine theoretical modeling, numerical simulation, advanced fabrication, and
 
 <p>
 <a href="mailto:your-email@example.com">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#">Google Scholar</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#">ORCID</a>
+<a href="https://scholar.google.com/citations?user=dH3xIRcAAAAJ">Google Scholar</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0002-6614-976X">ORCID</a>
 </p>
 
 </div>

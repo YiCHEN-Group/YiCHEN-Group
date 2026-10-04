@@ -21,10 +21,10 @@ title: Publications
 
 <div class="publication">
     <p>
-        <strong>{{ paper.title }}</strong>, <em>{{ paper.journal }}</em>, <strong>{{ paper.volumes }}</strong>, {{ paper.pages | split: '-' | first }} ({{ paper.year }}).<br>
+        <strong>{{ paper.title }}</strong>, <em>{{ paper.journal }}</em>, <strong>{{ paper.volumes }}</strong>, {{ paper.pages | split: '-' | first }} ({{ paper.year }}).
         {% if paper.doi %}
         <a href="{{ paper.doi }}" target="_blank">[DOI]</a>
-        {% endif %}
+        {% endif %}<br>
         {{ paper.authors }}<br>
     </p>
 </div>

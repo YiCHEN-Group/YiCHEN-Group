@@ -7,10 +7,9 @@ title: Home
 
 <div class="home-text">
 
-## About the Lab
+<h2>About the Lab</h2>
 
-Our lab investigates fundamental and applied problems in mechanics, wave physics, and multiphysics systems.
-We combine theoretical modeling, numerical simulation, advanced fabrication, and experimental characterization to develop new physical concepts and functional metamaterial systems.
+Our lab combine theoretical modeling, numerical simulation, advanced fabrication, and experimental characterization to develop new physical concepts and functional metamaterial systems for addressing problems in mechanics, wave physics, and multiphysics systems.
 
 <p>
 <a href="mailto:your-email@example.com">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -32,7 +31,7 @@ We combine theoretical modeling, numerical simulation, advanced fabrication, and
 
 {% assign news = site.data.news | sort: "date" | reverse %}
 
-{% for item in news limit:5 %}
+{% for item in news limit:10 %}
 
 <div class="news-item">
 

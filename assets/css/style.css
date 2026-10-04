@@ -83,9 +83,16 @@ h3 {
 
 p {
     font-size: 16px;
-    line-height: 1.2;
+    line-height: 1.8;
 }
 
+.publication {
+    margin-bottom: 25px; /* Adds space between consecutive paper items */
+}
+
+.publication p {
+    margin: 0 0 4px 0; /* Tightens the spacing between title, authors, and journal */
+}
 
 a {
     color: #315f8a;

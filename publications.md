@@ -5,6 +5,10 @@ title: Publications
 
 # Publications
 
+<p class="publication-notice" style="font-size: 0.9em; color: #666; margin-bottom: 2rem;">
+  <em>* Corresponding authors &nbsp;&nbsp;|&nbsp;&nbsp; † Equal contributions</em>
+</p>
+
 {% assign publications = site.data.publications | sort: "year" | reverse %}
 
 {% assign current_year = "" %}

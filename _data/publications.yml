@@ -1,4 +1,21 @@
+
 - year: 2026
+  title: "Metamaterials and fluid flows"
+  authors: "Francesco Avallone, Federico Bosia, Yi Chen, Giada Colombo, Richard Craster, Jacopo Maria De Ponti, Nicolò Fabbiane, Michael R Haberman, Mahmoud I Hussein, Wontae Hwang, Umberto Iemma, Abigail Juhl, Muamer Kadic, Marios Kotsonis, Vincent Laude, Olivier Marquet, Fabien Mery, Theodoros Michelis, Mostafa Nouh, Daniele Ragni, Marie Touboul, Martin Wegener, Anastasiia O Krushynska"
+  journal: "Nature Communications"
+  volumes: "17"
+  pages: "4144"
+  doi: "https://doi.org/10.1038/s41467-026-70163-2"
+
+- year: 2026
+  title: "Classification of rotational zero modes in 2D micropolar solids"
+  authors: "Dingxin Sun, Yi Chen, Gengkai Hu"
+  journal: "Nature Communications"
+  volumes: "17"
+  pages: "106704"
+  doi: "https://doi.org/10.1016/j.jmps.2026.106704"
+
+- year: 2025
   title: "Nonlocal metamaterials and metasurfaces"
   authors: "Yi Chen, Romain Fleury, Pierre Seppecher, Gengkai Hu, Martin Wegener"
   journal: "Nature Reviews Physics"

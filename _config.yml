@@ -1,7 +1,7 @@
 title: "Lab of Metamaterials and Waves"
 description: "Metamaterials & Multiphysics"
 url: "https://yichen-group.github.io"
-
+baseurl: ""
 markdown: markdown
 
 collections:

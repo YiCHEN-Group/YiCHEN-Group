@@ -1,3 +1,18 @@
+- year: 2026
+  title: "Experiments on Nonlocal Fluid-Flow Metamaterials"
+  authors: "Ke Wang<sup>*</sup>, Yi Chen<sup>*</sup> and Martin Wegener<sup>*</sup>"
+  journal: "Advanced Science"
+  volumes: "14"
+  pages: "3134675"
+  doi: "https://doi.org/10.1002/advs.77912"
+
+- year: 2026
+  title: "Classification of rotational zero modes in 2D micropolar solids"
+  authors: "Dingxin Sun, Yi Chen<sup>*</sup>, Gengkai Hu<sup>*</sup>"
+  journal: "Journal of the Mechanics and Physics of Solids"
+  volumes: "215"
+  pages: "106704"
+  doi: "https://doi.org/10.1016/j.jmps.2026.106704"
 
 - year: 2026
   title: "Metamaterials and fluid flows"
@@ -8,20 +23,52 @@
   doi: "https://doi.org/10.1038/s41467-026-70163-2"
 
 - year: 2026
-  title: "Classification of rotational zero modes in 2D micropolar solids"
-  authors: "Dingxin Sun, Yi Chen<sup>*</sup>, Gengkai Hu<sup>*</sup>"
-  journal: "Journal of the Mechanics and Physics of Solids"
-  volumes: "215"
-  pages: "106704"
-  doi: "https://doi.org/10.1016/j.jmps.2026.106704"
+  title: "Luneburg cloak with pentamode metafluid"
+  authors: "Haoran Xu, Zhaoyong Su, Liuxian Zhao, Yi Chen, Jun Yang"
+  journal: "Wave Motion"
+  volumes: "144"
+  pages: "103721"
+  doi: "https://doi.org/10.1016/j.wavemoti.2026.103721"
+
+- year: 2026
+  title: "Designing Elastic Metamaterials with Roton-like and Plateau Dispersion via Topology Optimization"
+  authors: "Ming Cai, Yu Wei, Kun Wang, Yi Chen, Pingzhang Zhou, Gengkai Hu"
+  journal: "International Journal of Applied Mechanics"
+  volumes: "18"
+  pages: "550135"
+  doi: "https://doi.org/10.1142/S1758825125501352"
+
+- year: 2026
+  title: "Extremal micropolar materials for elastic wave cloaking"
+  authors: "Dingxin Sun, Yi Chen<sup>*</sup>, Xiaoning Liu and Gengkai Hu<sup>*</sup>"
+  journal: "International Journal of Mechanical Sciences"
+  volumes: "309"
+  pages: "111006"
+  doi: "https://doi.org/10.1016/j.ijmecsci.2025.111006"
+
+- year: 2025
+  title: "Roton dispersion and displacement oscillatory for a nonlocal mechanical system"
+  authors: "Ke Wang, Jonathan LG Schneider, Yi Chen, Julio Andrés Iglesias Martínez, Muamer Kadic, Changguo Wang"
+  journal: "European Journal of Mechanics - A/Solids"
+  volumes: "115"
+  pages: "105842"
+  doi: "https://doi.org/10.1016/j.euromechsol.2025.105842"
 
 - year: 2025
   title: "Nonlocal metamaterials and metasurfaces"
   authors: "Yi Chen<sup>*</sup>, Romain Fleury, Pierre Seppecher, Gengkai Hu, Martin Wegener<sup>*</sup>"
   journal: "Nature Reviews Physics"
   volumes: "7"
-  pages: "299-312"
+  pages: "299"
   doi: "https://doi.org/10.1038/s42254-025-00829-1"
+
+- year: 2025
+  title: "Impedance of Evanescent Modes for Determining Interface States in One-Dimensional Chain"
+  authors: "Dengke Guo<sup>*</sup>, Dongwei Wang, Yi Chen<sup>*</sup>, Xiaoning Liu, Gengkai Hu<sup>*</sup>"
+  journal: "Journal of Applied Mechanics"
+  volumes: "92"
+  pages: "071002"
+  doi: "https://doi.org/10.1115/1.4068253"
 
 - year: 2025
   title: "Observation of Floppy Flexural Modes in a 3D Polarized Maxwell Beam"
@@ -30,6 +77,30 @@
   volumes: "134"
   pages: "086101"
   doi: "https://doi.org/10.1103/PhysRevLett.134.086101"
+
+- year: 2025
+  title: "Nonlocal Conduction in a Metawire"
+  authors: "Julio-Andrés Iglesias-Martínez<sup>*</sup>, Yi Chen<sup>*</sup>, Ke Wang and Martin Wegener<sup>*</sup>"
+  journal: "Advanced Materials"
+  volumes: "37"
+  pages: "2415278"
+  doi: "https://doi.org/10.1002/adma.202415278"
+
+- year: 2025
+  title: "The 2024 phononic crystals roadmap"
+  authors: "Yabin Jin, Daniel Torrent, Bahram Djafari Rouhani, Liangshu He, Yanxun Xiang, Fu-Zhen Xuan, Zhongming Gu, Haoran Xue, Jie Zhu, Qian Wu, Guoliang Huang, Pedro David García, Guillermo Arregui, Yi Chen et al."
+  journal: "Journal of Physics D: Applied Physics"
+  volumes: "58"
+  pages: "113001"
+  doi: "https://doi.org/10.1088/1361-6463/ad9ab2"
+
+- year: 2024
+  title: "Observation of maxon-like ultrasound in elastic metabeam"
+  authors: "Peng Zhang, Yunya Liu, Keping Zhang, Yuning Wu, Fei Chen, Yi Chen, Pai Wang, and Xuan Zhu"
+  journal: "APL Materials"
+  volumes: "12"
+  pages: "3"
+  doi: "https://doi.org/10.1063/5.0180074"
 
 - year: 2024
   title: "Anomalous frozen evanescent phonons"
@@ -57,11 +128,19 @@
 
 - year: 2023
   title: "Observation of Chirality-Induced Roton-Like Dispersion in a 3D Micropolar Elastic Metamaterial"
-  authors: "Yi Chen<sup>*</sup>, Jonathan L.G. Schneider, Michael F. Groß, Ke Wang, Sebastian Kalt, Philip Scott, Muamer Kadic, and Martin Wegener<sup>*</sup>"
+  authors: "Yi Chen<sup>†*</sup>, Jonathan L.G. Schneider<sup>†</sup>, Michael F. Groß<sup>†</sup>, Ke Wang, Sebastian Kalt, Philip Scott, Muamer Kadic, and Martin Wegener<sup>*</sup>"
   journal: "Advanced Functional Materials"
   volumes: "34"
-  pages: "02699"
+  pages: "2302699"
   doi: "https://doi.org/10.1002/adfm.202302699"
+
+- year: 2023
+  title: "Bio-metamaterials for mechano-regulation of mesenchymal stem cells"
+  authors: "Natalie Munding, Magdalena Fladung, Yi Chen, Marc Hippler, Anthony D. Ho, Martin Wegener, Martin Bastmeyer, and Motomu Tanaka"
+  journal: "Advanced Functional Materials"
+  volumes: "34"
+  pages: "2301133"
+  doi: "https://doi.org/10.1002/adfm.202301133"
 
 - year: 2023
   title: "Nonlocal cable-network metamaterials"
@@ -71,13 +150,23 @@
   pages: "2209988"
   doi: "https://doi.org/10.1002/adma.202209988"
 
+33.	. . Advanced Materials 35(), 2023. [link]
+
+- year: 2023
+  title: "Tetramode metamaterials as phonon polarizers"
+  authors: "Michael F. Groß<sup>†</sup>, Jonathan L.G. Schneider<sup>†</sup>, Yu Wei<sup>†</sup>, Yi Chen, Sebastien Kalt, Muamer Kadic, Xiaoning Liu, Gengkai Hu<sup>*</sup> and Martin Wegener<sup>*</sup>"
+  journal: "Advanced Materials"
+  volumes: "35"
+  pages: "2211801"
+  doi: "https://doi.org/10.1002/adma.202211801"
+
 - year: 2023
   title: "Phonon transmission through a nonlocal metamaterial slab"
   authors: "Yi Chen<sup>*</sup>, Ke Wang, Muamer Kadic, Sebastien Guenneau, Changguo Wang, and Martin Wegener"
   journal: "Communications Physics"
   volumes: "6"
   pages: "75"
-  doi: "https://doi.org/10.1038/s42005-023-01192-3"
+  doi: "https://doi.org/10.1038/s42005-023-01184-2"
 
 - year: 2022
   title: "Nonlocal interaction engineering of 2D roton-like dispersion relations in acoustic and mechanical metamaterials"
@@ -85,7 +174,7 @@
   journal: "Communications Materials"
   volumes: "3"
   pages: "35"
-  doi: "https://doi.org/10.1038/s43246-022-00257-2"
+  doi: "https://doi.org/10.1038/s43246-022-00257-z"
 
 - year: 2021
   title: "Experimental observation of roton-like dispersion relations in metamaterials"
@@ -101,7 +190,7 @@
   journal: "Nature Communications"
   volumes: "12"
   pages: "3278"
-  doi: "https://doi.org/10.1038/s41467-021-23577-2"
+  doi: "https://doi.org/10.1038/s41467-021-23574-2"
 
 - year: 2021
   title: "Cubic metamaterial crystal supporting broadband isotropic chiral phonons"
@@ -119,6 +208,22 @@
   pages: "20200764"
   doi: "https://doi.org/10.1098/rspa.2020.0764"
 
+- year: 2021
+  title: "Experiments on tailored macroscopic characteristic lengths in 3D chiral tetragonal micropolar metamaterials"
+  authors: "Tobias Frenzel, Vincent Hahn, Patrick Ziemke, Jonathan Schneider, Yi Chen, Pascal Kiefer, Peter Gumbsch, and Martin Wegener"
+  journal: "Communications Materials"
+  volumes: "2"
+  pages: "4"
+  doi: "https://doi.org/10.1038/s43246-020-00107-w"
+
+- year: 2021
+  title: "Research progress of elastic topological materials (in Chinese)"
+  authors: "Yi Chen, Quan Zhang, Yafei Zhang et al."
+  journal: "Advances in Mechanics"
+  volumes: "51"
+  pages: "189"
+  doi: "https://doi.org/10.6052/1000-0992-21-015"
+
 - year: 2020
   title: "Highly anisotropic hexagonal lattice material for low frequency water sound insulation"
   authors: "Yi Chen<sup>†</sup>, Binghao Zhao<sup>†</sup>, Xiaoning Liu, and Gengkai Hu<sup>*</sup>"
@@ -126,6 +231,14 @@
   volumes: "40"
   pages: "100916"
   doi: "https://doi.org/10.1016/j.eml.2020.100916"
+
+- year: 2020
+  title: "Isotropic chiral acoustic phonons in 3D quasicrystalline metamaterials"
+  authors: "Yi Chen, Muamer Kadic, Sebastien Guenneau, and Martin Wegener"
+  journal: "Physical Review Letters"
+  volumes: "124"
+  pages: "235502"
+  doi: "https://doi.org/10.1103/PhysRevLett.124.235502"
 
 - year: 2020
   title: "Mapping acoustical activity in 3D chiral mechanical metamaterials onto micropolar continuum elasticity"
@@ -136,20 +249,52 @@
   doi: "https://doi.org/10.1016/j.jmps.2020.103877"
 
 - year: 2020
-  title: "Isotropic chiral acoustic phonons in 3D quasicrystalline metamaterials"
-  authors: "Yi Chen, Muamer Kadic, Sebastien Guenneau, and Martin Wegener"
-  journal: "Physical Review Letters"
-  volumes: "124"
-  pages: "235502"
-  doi: "https://doi.org/10.1103/PhysRevLett.124.235502"
+  title: "Dirac degeneracy and elastic topological valley modes induced by local resonant states"
+  authors: "Quan Zhang, Yi Chen, Kai Zhang, Gengkai Hu"
+  journal: "Physical Review B"
+  volumes: "101"
+  pages: "014101"
+  doi: "https://doi.org/10.1103/PhysRevB.101.014101"
+
+- year: 2020
+  title: "An asymmetric elastic metamaterial model for elastic wave cloaking"
+  authors: "Hongkuan Zhang, Yi Chen, Xiaoning Liu and Gengkai Hu"
+  journal: "Journal of the Mechanics and Physics of Solids"
+  volumes: "135"
+  pages: "103796"
+  doi: "https://doi.org/10.1016/j.jmps.2019.103796"
+
+- year: 2020
+  title: "Metagel with Broadband Tunable Acoustic Properties Over Air–Water–Solid Ranges"
+  authors: "Kai Zhang, Chu Ma, Qi He, Shaoting Lin, Yi Chen, Yu Zhang, Nicholas Fang, Xuanhe Zhao"
+  journal: "Advanced Functional Materials"
+  volumes: "29"
+  pages: "1903699"
+  doi: "https://doi.org/10.1007/s10338-019-00139-x"
 
 - year: 2019
-  title: "Broadband and high transmission metasurface for converting underwater cylindrical waves to plane Waves"
+  title: "A broadband and high transmission metasurface for converting underwater cylindrical waves to plane Waves"
   authors: "Yi Chen, and Gengkai Hu<sup>*</sup>"
   journal: "Physical Review Applied"
   volumes: "12"
   pages: "04406"
-  doi: "https://doi.org/10.1103/PhysRevApplied.12.044061"
+  doi: "https://doi.org/10.1103/PhysRevApplied.12.044046"
+
+- year: 2019
+  title: "Scattering Analysis and Optimization of Spherical Acoustic Cloak with Unideal Pentamode Material"
+  authors: "Xin Nie, Yi Chen, Xiaoning Liu"
+  journal: "Acta Mechanica Solida Sinica"
+  volumes: "33"
+  pages: "347"
+  doi: "https://doi.org/10.1007/s10338-019-00139-x"
+
+- year: 2019
+  title: "Theory and Realization of Nonresonant Anisotropic Singly Polarized Solids Carrying Only Shear Waves"
+  authors: "Mingye Zheng, Xiaoning Liu, Yi Chen, Hongchen Miao, Rui Zhu, Gengkai Hu"
+  journal: "Physical Review Applied"
+  volumes: "12"
+  pages: "014027"
+  doi: "https://doi.org/10.1103/PhysRevApplied.12.014027"
 
 - year: 2019
   title: "Influences of imperfectness and inner constraints on an acoustic cloak with unideal pentamode materials"
@@ -159,21 +304,37 @@
   pages: "62"
   doi: "https://doi.org/10.1016/j.jsv.2019.06.012"
 
-- year: 2021
-  title: "Research progress of elastic topological materials (in Chinese)"
-  authors: "Yi Chen, Quan Zhang, Yafei Zhang et al."
-  journal: "Advances in Mechanics"
-  volumes: "51"
-  pages: "189"
-  doi: "https://doi.org/10.6052/1000-0984-20-071"
-
 - year: 2019
   title: "Topological phase transition in mechanical honeycomb lattice"
   authors: "Yi Chen, Xiaoning Liu<sup>*</sup>, and Gengkai Hu<sup>*</sup>"
   journal: "Journal of the Mechanics and Physics of Solids"
   volumes: "122"
   pages: "54"
-  doi: "https://doi.org/10.1016/j.jmps.2018.08.013"
+  doi: "https://doi.org/10.1016/J.JMPS.2018.08.021"
+
+- year: 2019
+  title: "Programmable elastic valley Hall insulator with tunable interface propagation routes"
+  authors: "Quan Zhang, Yi Chen, Kai Zhang, Gengkai Hu"
+  journal: "Extreme Mechanics Letters"
+  volumes: "28"
+  pages: "76"
+  doi: "https://doi.org/10.1016/j.eml.2019.03.002"
+
+- year: 2018
+  title: "Analytical and Experimental Investigation on Sound Transmission of Double Thin Plates with Magnetic Negative Stiffness"
+  authors: "Akintoye Olumide Oyelade, Yi Chen, Ruojun Zhang and Gengkai Hu"
+  journal: "International Journal of Applied Mechanics"
+  volumes: "10"
+  pages: "1850054"
+  doi: "https://doi.org/10.1142/S1758825118500540"
+
+- year: 2018
+  title: "Design of an underwater acoustic bend by pentamode metafluids"
+  authors: "Zhaoyong Sun, Han Jia, Yi Chen, Zhen Wang, and Jun Yang"
+  journal: "Journal of the Acoustical Society of America"
+  volumes: "143"
+  pages: "1029"
+  doi: "https://doi.org/10.1121/1.5024351"
 
 - year: 2018
   title: "Two-dimensional water acoustic waveguide based on pressure compensation method"
@@ -181,7 +342,7 @@
   journal: "Review of Scientific Instruments"
   volumes: "89"
   pages: "024902"
-  doi: "https://doi.org/10.1063/1.5008544"
+  doi: "https://doi.org/10.1063/1.5008823"
 
 - year: 2017
   title: "Longitudinal elastic wave control by semi-linear material"
@@ -189,7 +350,15 @@
   journal: "The Journal of the Acoustical Society of America"
   volumes: "142"
   pages: "1229"
-  doi: "https://doi.org/10.1121/1.5000146"
+  doi: "https://doi.org/10.1121/1.5000491"
+
+- year: 2017
+  title: "Broadband solid cloak for underwater acoustics"
+  authors: "Yi Chen, Mingye Zheng, Xiaoning Liu, Yafeng Bi, Zaoyong Sun, Ping Xiang, Jun Yang and Gengkai Hu"
+  journal: "Physical Review B"
+  volumes: "95"
+  pages: "180104R"
+  doi: "https://doi.org/10.1103/PhysRevB.95.180104"
 
 - year: 2016
   title: "Pentamode material for underwater acoustic wave control (in Chinese)"
@@ -197,7 +366,7 @@
   journal: "Advances in Mechanics"
   volumes: "46"
   pages: "201609"
-  doi: "https://doi.org/10.6052/1000-0984-15-029"
+  doi: "http://dx.doi.org/10.6052/1000-0992-21-015"
 
 - year: 2016
   title: "Design of arbitrary shaped pentamode acoustic cloak based on quasi-symmetric mapping gradient algorithm"
@@ -205,7 +374,7 @@
   journal: "Journal of the Acoustical Society of America"
   volumes: "140"
   pages: "EL405"
-  doi: "https://doi.org/10.1121/1.4967352"
+  doi: "https://doi.org/10.1121/1.4967347"
 
 - year: 2015
   title: "Latticed pentamode acoustic cloak"
@@ -221,12 +390,20 @@
   journal: "Comptes Rendus Mécanique"
   volumes: "342"
   pages: "273"
-  doi: "https://doi.org/10.1016/j.crme.2014.02.004"
+  doi: "https://doi.org/10.1016/j.crme.2014.01.010"
 
 - year: 2014
   title: "Micropolar continuum modelling of bi-dimensional tetrachiral lattices"
   authors: "Yi Chen, Xiaoning Liu, Gengkai Hu<sup>*</sup>, Qingping Sun, and Quanshui Zheng"
   journal: "Proceedings of the Royal Society A"
-  volumes: "2165"
+  volumes: "470"
   pages: "20130734"
   doi: "https://doi.org/10.1098/rspa.2013.0734"
+
+- year: 2014
+  title: "Polynomial stress functions of anisotropic plane problems and their applications in hybrid finite elements"
+  authors: "Yingtao Zhao, Minzhong Wang, Yi Chen, Yu Su"
+  journal: "Acta Mechanica"
+  volumes: "223"
+  pages: "493"
+  doi: "https://doi.org/10.1007/s00707-011-0566-z"

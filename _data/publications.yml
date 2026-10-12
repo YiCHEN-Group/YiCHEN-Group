@@ -207,7 +207,7 @@
   doi: "https://doi.org/10.1098/rspa.2020.0764"
 
 - year: 2021
-  title: "Experiments on tailored macroscopic characteristic lengths in 3D chiral tetragonal micropolar metamaterials"
+  title: "Large characteristic lengths in 3D chiral elastic metamaterials"
   authors: "Tobias Frenzel, Vincent Hahn, Patrick Ziemke, Jonathan Schneider, Yi Chen, Pascal Kiefer, Peter Gumbsch, and Martin Wegener"
   journal: "Communications Materials"
   volumes: "2"
@@ -268,10 +268,10 @@
   journal: "Advanced Functional Materials"
   volumes: "29"
   pages: "1903699"
-  doi: "https://doi.org/10.1007/s10338-019-00139-x"
+  doi: "https://doi.org/10.1002/adfm.201903699"
 
 - year: 2019
-  title: "A broadband and high transmission metasurface for converting underwater cylindrical waves to plane Waves"
+  title: "Broadband and high transmission metasurface for converting underwater cylindrical waves to plane Waves"
   authors: "Yi Chen, and Gengkai Hu<sup>*</sup>"
   journal: "Physical Review Applied"
   volumes: "12"
@@ -300,7 +300,7 @@
   journal: "Journal of Sound and Vibration"
   volumes: "458"
   pages: "62"
-  doi: "https://doi.org/10.1016/j.jsv.2019.06.012"
+  doi: "https://doi.org/10.1016/j.jsv.2019.06.005"
 
 - year: 2019
   title: "Topological phase transition in mechanical honeycomb lattice"

@@ -88,12 +88,12 @@ p {
 }
 
 .publication {
-    margin-bottom: 15px; /* Adds space between consecutive paper items */
+    margin-bottom: 10px; /* Adds space between consecutive paper items */
 }
 
 .publication p {
     margin: 0 0 2px 0; /* Tightens the spacing between title, authors, and journal */
-    line-height: 1.0;
+    line-height: 1.2;
 }
 
 a {

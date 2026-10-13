@@ -243,6 +243,7 @@ footer {
     margin: 0 auto;
     background: #f1f3f5;
 }
+
 .home-research-card__body {
     padding: 16px 18px 18px;
 }
@@ -295,8 +296,9 @@ footer {
 .research-card__image img {
     display: block;
     width: 100%;
-    height: auto;
+    max-height: 500px;
     object-fit: contain;
+    object-position: center center;
 }
 
 .research-card__body {

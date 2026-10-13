@@ -11,9 +11,10 @@ body {
 
 
 .container {
-    width: 90%;
+    width: 96%;
     max-width: none;
-    margin: auto;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 
 

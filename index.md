@@ -8,10 +8,10 @@ title: Home
   <div class="home-text">
     <h2>About the Lab</h2>
 	
-	<h2>Metamaterials: Mechanics, Waves, and Beyond</h2> 
-	
-Our research focuses on mechanical and acoustic metamaterials, aiming to discover and realize physical behaviors beyond those of conventional materials. By engineering nonlocal interactions, structural architectures, and constitutive properties, we develop new strategies for controlling mechanical responses, wave propagation, and dispersion. Combining theoretical modeling, numerical simulations, and experimental investigations, we explore fundamental physical phenomena and translate our findings into functional metamaterial designs. Beyond mechanics and acoustics, we also explore how these principles can be extended to transport phenomena, including thermal and electrical transport and fluid flow.
-
+	<h3>Metamaterials: Mechanics, Waves, and Beyond</h3> 
+	<p class="about-intro">	
+	Our research focuses on mechanical and acoustic metamaterials, aiming to discover and realize physical behaviors beyond those of conventional materials. By engineering nonlocal interactions, structural architectures, and constitutive properties, we develop new strategies for controlling mechanical responses, wave propagation, and dispersion. Combining theoretical modeling, numerical simulations, and experimental investigations, we explore fundamental physical phenomena and translate our findings into functional metamaterial designs. Beyond mechanics and acoustics, we also explore how these principles can be extended to transport phenomena, including thermal and electrical transport and fluid flow.
+	</p>
     <p>
       <a href="mailto:your-email@example.com">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
       <a href="https://scholar.google.com/citations?user=dH3xIRcAAAAJ">Google Scholar</a> &nbsp;&nbsp;|&nbsp;&nbsp;

@@ -24,8 +24,20 @@ Our research focuses on mechanical and acoustic metamaterials, aiming to discove
 
 </div>
 
-## Research
+## News
+{% assign news = site.data.news | sort: "date" | reverse %}
 
+{% for item in news limit:10 %}
+<div class="news-item">
+  <strong>{{ item.date }}</strong>
+  &nbsp;&nbsp;
+  {{ item.title }}
+  <br>
+  <span>{{ item.description }}</span>
+</div>
+{% endfor %}
+
+## Research
 <div class="home-research-grid">
 {% for direction in site.data.research %}
   <a class="home-research-card" href="{{ '/research' | relative_url }}">
@@ -44,17 +56,3 @@ Our research focuses on mechanical and acoustic metamaterials, aiming to discove
 <p class="home-research-more">
   <a href="{{ '/research' | relative_url }}">View all research directions →</a>
 </p>
-
-## News
-
-{% assign news = site.data.news | sort: "date" | reverse %}
-
-{% for item in news limit:10 %}
-<div class="news-item">
-  <strong>{{ item.date }}</strong>
-  &nbsp;&nbsp;
-  {{ item.title }}
-  <br>
-  <span>{{ item.description }}</span>
-</div>
-{% endfor %}

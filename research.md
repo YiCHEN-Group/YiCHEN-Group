@@ -9,7 +9,7 @@ title: Research
 
   <article class="research-card">
     <a class="research-card__image" href="{{ '/research/nonlocal-metamaterials/' | relative_url }}">
-      <img src="{{ '/assets/images/research/Research_01.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/Research_01.jpg' | relative_url }}"
            alt="Nonlocal metamaterials and beyond-nearest-neighbor interactions">
     </a>
     <div class="research-card__body">
@@ -26,7 +26,7 @@ title: Research
 
   <article class="research-card">
     <a class="research-card__image" href="{{ '/research/advanced-mechanics-waves/' | relative_url }}">
-      <img src="{{ '/assets/images/research/Research_02.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/Research_02.jpg' | relative_url }}"
            alt="Advanced mechanics and wave physics in architected materials">
     </a>
     <div class="research-card__body">
@@ -42,7 +42,7 @@ title: Research
 
   <article class="research-card">
     <a class="research-card__image" href="{{ '/research/functional-metamaterials/' | relative_url }}">
-      <img src="{{ '/assets/images/research/Research_03.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/Research_03.jpg' | relative_url }}"
            alt="Functional metamaterials for acoustic cloaking and underwater sound insulation">
     </a>
     <div class="research-card__body">

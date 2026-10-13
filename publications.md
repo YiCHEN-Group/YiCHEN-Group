@@ -3,9 +3,7 @@ layout: default
 title: Publications
 ---
 
-# Publications
-
-<p class="publication-notice" style="font-size: 0.9em; color: #666; margin-bottom: 2rem;">
+<p class="publication-notice" style="font-size: 0.9em; color: #666; margin-bottom: 1rem;">
   <em>* Corresponding authors &nbsp;&nbsp;|&nbsp;&nbsp; † Equal contributions</em>
 </p>
 

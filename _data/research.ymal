@@ -1,0 +1,39 @@
+- title: "Nonlocal Metamaterials"
+  image: "/assets/images/Research_01.jpg"
+  image_alt: "Nonlocal metamaterial lattice and engineered long-range interactions"
+  description: >-
+    We investigate how interactions beyond nearest neighbors can be engineered
+    to control static mechanical responses and wave propagation. This approach
+    enables unusual dispersion relations, including roton-like bands, and new
+    ways to implement nonlocal interactions across different physical systems.
+  topics:
+    - "Beyond-nearest-neighbor interactions and nonlocal elasticity"
+    - "Dispersion engineering and roton-like dispersion relations"
+    - "Anomalous static responses and nonlocal mechanical behavior"
+    - "Nonlocal interaction engineering across physical systems"
+
+- title: "Advanced Mechanics and Wave Physics"
+  image: "/assets/images/Research_02.jpg"
+  image_alt: "Architected mechanical lattice illustrating advanced mechanics and wave physics"
+  description: >-
+    We explore how material architecture and constitutive behavior determine
+    the mechanical properties and collective dynamics of structured materials.
+    Our work examines extremal elasticity, chiral and micropolar mechanics,
+    and mechanical lattices with floppy modes and topological properties.
+  topics:
+    - "Extremal elasticity and pentamode metamaterials"
+    - "Chiral mechanics and micropolar elasticity"
+    - "Maxwell lattices, floppy modes, and topological mechanics"
+
+- title: "Functional Metamaterials and Applications"
+  image: "/assets/images/Research_03.jpg"
+  image_alt: "Functional acoustic metamaterial for underwater sound control"
+  description: >-
+    We design metamaterials to achieve functions that are difficult to realize
+    with conventional materials. Examples include pentamode-based cloaking and
+    underwater sound insulation, supported by inverse-design strategies for
+    prescribed material responses.
+  topics:
+    - "Pentamode cloaking for underwater acoustics"
+    - "Pentamode metamaterials for underwater sound insulation"
+    - "Inverse design of functional metamaterials"

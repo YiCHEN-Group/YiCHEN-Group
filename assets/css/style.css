@@ -11,7 +11,7 @@ body {
 
 
 .container {
-    width: 90%;
+    width: 85%;
     max-width: none;
     margin: 0 auto;
     box-sizing: border-box;
@@ -92,8 +92,8 @@ p {
 }
 
 .publication p {
-    margin: 0 0 4px 0; /* Tightens the spacing between title, authors, and journal */
-    line-height: 1.2;
+    margin: 0 0 2px 0; /* Tightens the spacing between title, authors, and journal */
+    line-height: 1.0;
 }
 
 a {
@@ -175,7 +175,7 @@ footer {
 
 /* Mobile */
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
 
     .home-intro {
         flex-direction: column-reverse;
@@ -327,15 +327,8 @@ footer {
     line-height: 1;
 }
 
-@media (max-width: 900px) {
-    .home-research-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-}
-
 @media (max-width: 700px) {
-    .home-research-grid,
-    .research-grid {
+    .home-research-grid {
         grid-template-columns: 1fr;
     }
 }

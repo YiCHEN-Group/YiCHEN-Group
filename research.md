@@ -24,14 +24,3 @@ title: Research
     </div>
   </article>
 {% endfor %}
-
-  <article class="research-card research-card--placeholder">
-    <div class="research-card__placeholder-visual" aria-hidden="true">
-      <span>+</span>
-    </div>
-    <div class="research-card__body">
-      <h2>Future Research Directions</h2>
-      <p>This space is reserved for an emerging research direction. A new topic, figure, and description can be added here as the group's research develops.</p>
-    </div>
-  </article>
-</div>

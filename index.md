@@ -10,7 +10,7 @@ title: Home
 	
 	<h2>Metamaterials: Mechanics, Waves, and Beyond</h2> 
 	
-    Our research focuses on mechanical and acoustic metamaterials, aiming to discover and realize physical behaviors beyond those of conventional materials. By engineering nonlocal interactions, structural architectures, and constitutive properties, we develop new strategies for controlling mechanical responses, wave propagation, and dispersion. Combining theoretical modeling, numerical simulations, and experimental investigations, we explore fundamental physical phenomena and translate our findings into functional metamaterial designs. Beyond mechanics and acoustics, we also explore how these principles can be extended to transport phenomena, including thermal and electrical transport and fluid flow.
+Our research focuses on mechanical and acoustic metamaterials, aiming to discover and realize physical behaviors beyond those of conventional materials. By engineering nonlocal interactions, structural architectures, and constitutive properties, we develop new strategies for controlling mechanical responses, wave propagation, and dispersion. Combining theoretical modeling, numerical simulations, and experimental investigations, we explore fundamental physical phenomena and translate our findings into functional metamaterial designs. Beyond mechanics and acoustics, we also explore how these principles can be extended to transport phenomena, including thermal and electrical transport and fluid flow.
 
     <p>
       <a href="mailto:your-email@example.com">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -27,11 +27,9 @@ title: Home
 
 ## Research
 
-Our research connects the engineering of nonlocal interactions with the discovery of unconventional mechanical and wave phenomena, and the development of functional metamaterials.
-
 <div class="home-research-grid">
 {% for direction in site.data.research %}
-  <a class="home-research-card" href="{{ '/research/' | relative_url }}">
+  <a class="home-research-card" href="{{ '/research' | relative_url }}">
     <img src="{{ direction.image | relative_url }}"
          alt="{{ direction.image_alt }}"
          loading="lazy">
@@ -45,7 +43,7 @@ Our research connects the engineering of nonlocal interactions with the discover
 </div>
 
 <p class="home-research-more">
-  <a href="{{ '/research/' | relative_url }}">View all research directions →</a>
+  <a href="{{ '/research' | relative_url }}">View all research directions →</a>
 </p>
 
 ## News

@@ -1,79 +1,50 @@
 ---
 layout: default
 title: Research
+permalink: /research/
 ---
 
 # Research
 
+Our research connects the engineering of material interactions with the discovery of unconventional mechanical and wave phenomena, and their use in functional metamaterial designs.
+
 <div class="research-grid">
-
+{% for direction in site.data.research %}
   <article class="research-card">
-    <a class="research-card__image" href="{{ '/research/nonlocal-metamaterials/' | relative_url }}">
-      <img src="{{ '/assets/images/Research_01.jpg' | relative_url }}"
-           alt="Nonlocal metamaterials and beyond-nearest-neighbor interactions">
-    </a>
+    <div class="research-card__image">
+      <img src="{{ direction.image | relative_url }}"
+           alt="{{ direction.image_alt }}"
+           loading="lazy">
+    </div>
     <div class="research-card__body">
-      <h2>1. Nonlocal Metamaterials</h2>
-      <p>We investigate how interactions beyond nearest neighbors can be engineered to control static mechanical responses and wave propagation. This approach enables unusual dispersion relations, including roton-like bands, and new ways to implement nonlocal interactions across physical systems.</p>
+      <h2>{{ forloop.index }}. {{ direction.title }}</h2>
+      <p>{{ direction.description }}</p>
       <ul>
-        <li>Beyond-nearest-neighbor interactions and nonlocal elasticity</li>
-        <li>Dispersion engineering and roton-like dispersion relations</li>
-        <li>Anomalous static responses</li>
-        <li>Nonlocal interaction engineering across physical systems</li>
+      {% for topic in direction.topics %}
+        <li>{{ topic }}</li>
+      {% endfor %}
       </ul>
     </div>
   </article>
+{% endfor %}
 
-  <article class="research-card">
-    <a class="research-card__image" href="{{ '/research/advanced-mechanics-waves/' | relative_url }}">
-      <img src="{{ '/assets/images/Research_02.jpg' | relative_url }}"
-           alt="Advanced mechanics and wave physics in architected materials">
-    </a>
-    <div class="research-card__body">
-      <h2>2. Advanced Mechanics and Wave Physics</h2>
-      <p>We explore how material architecture and constitutive behavior determine the mechanical properties and collective dynamics of structured materials. Our work examines extremal elasticity, chiral and micropolar mechanics, and mechanical lattices with floppy modes and topological properties.</p>
-      <ul>
-        <li>Extremal elasticity and pentamode metamaterials</li>
-        <li>Chiral mechanics and micropolar elasticity</li>
-        <li>Maxwell lattices, floppy modes, and topological mechanics</li>
-      </ul>
-    </div>
-  </article>
-
-  <article class="research-card">
-    <a class="research-card__image" href="{{ '/research/functional-metamaterials/' | relative_url }}">
-      <img src="{{ '/assets/images/Research_03.jpg' | relative_url }}"
-           alt="Functional metamaterials for acoustic cloaking and underwater sound insulation">
-    </a>
-    <div class="research-card__body">
-      <h2>3. Functional Metamaterials and Applications</h2>
-      <p>We design metamaterials to achieve functions that are difficult to realize with conventional materials. Examples include pentamode-based cloaking and underwater sound insulation, supported by inverse-design strategies for prescribed material responses.</p>
-      <ul>
-        <li>Pentamode cloaking for underwater acoustics</li>
-        <li>Pentamode metamaterials for underwater sound insulation</li>
-        <li>Inverse design of functional metamaterials</li>
-      </ul>
-    </div>
-  </article>
-
-  <article class="research-card research-card--placeholder" aria-label="Future research direction placeholder">
+  <article class="research-card research-card--placeholder">
     <div class="research-card__placeholder-visual" aria-hidden="true">
       <span>+</span>
     </div>
     <div class="research-card__body">
       <h2>Future Research Directions</h2>
-      <p>This space is reserved for an emerging research direction. A new topic, figure, and short description can be added here as the group's research develops.</p>
+      <p>This space is reserved for an emerging research direction. A new topic, figure, and description can be added here as the group's research develops.</p>
     </div>
   </article>
-
 </div>
 
 <style>
 .research-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 2rem;
-  margin: 2rem 0;
+  gap: 1.75rem;
+  margin: 1.75rem 0;
 }
 
 .research-card {
@@ -85,7 +56,6 @@ title: Research
 }
 
 .research-card__image {
-  display: block;
   overflow: hidden;
   aspect-ratio: 16 / 9;
   background: #f1f3f5;
@@ -96,11 +66,6 @@ title: Research
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.25s ease;
-}
-
-.research-card__image:hover img {
-  transform: scale(1.03);
 }
 
 .research-card__body {
@@ -109,11 +74,12 @@ title: Research
 
 .research-card__body h2 {
   margin-top: 0;
-  font-size: 1.35rem;
+  font-size: 1.3rem;
+  line-height: 1.35;
 }
 
 .research-card__body p {
-  margin-bottom: 1rem;
+  line-height: 1.6;
 }
 
 .research-card__body ul {
@@ -137,7 +103,6 @@ title: Research
 }
 
 .research-card__placeholder-visual span {
-  display: block;
   line-height: 1;
 }
 

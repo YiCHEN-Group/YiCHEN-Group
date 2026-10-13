@@ -68,7 +68,7 @@ h1 {
 
 
 h2 {
-    margin-top: 50px;
+    margin-top: 20px;
     font-size: 24px;
     font-weight: 500;
     color: #222;
@@ -136,8 +136,8 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 60px;
-    margin-bottom: 70px;
+    gap: 30px;
+    margin-bottom: 20px;
 }
 
 .home-text {

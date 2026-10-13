@@ -5,8 +5,6 @@ title: Research
 
 # Research
 
-Our research connects the engineering of material interactions with the discovery of unconventional mechanical and wave phenomena, and their use in functional metamaterial designs.
-
 <div class="research-grid">
 {% for direction in site.data.research %}
   <article class="research-card">

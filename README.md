@@ -1,1 +1,1 @@
-# YiLab
+# Yi CHEN research group
